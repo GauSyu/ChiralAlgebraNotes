@@ -11,4 +11,4 @@ The following is a sketch of contents:
 Note: No string diagrams included.
 
 ---
-Download: https://github.com/GauSyu/ChiralAlgebraNotes/raw/master/ChiralAlgebras.pdf
+Download: [ChiralAlgebras](https://github.com/GauSyu/ChiralAlgebraNotes/raw/master/ChiralAlgebras.pdf)
