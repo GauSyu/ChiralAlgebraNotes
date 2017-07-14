@@ -9,5 +9,6 @@ The following is a sketch of contents:
 2017-7-14: Update the main file. Contains only the definition of pseudo-tensor categories.
 
 Note: No string diagrams included.
+
 ---
 Download: https://github.com/GauSyu/ChiralAlgebraNotes/raw/master/ChiralAlgebras.pdf
